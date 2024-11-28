@@ -4,8 +4,8 @@
 Este e-book explora a importância das IAs Generativas como uma ferramenta poderosa no diagnóstico da COVID-19, destacando como ela pode beneficiar tanto os governos quanto a população.
 
 ## 🤖 Tecnologias Utilizadas
-* IA Generativa ChatGPT para roteirização;
-* IA Generativa [Leonardo AI](https://chat.openai.com/) e Pixlr para criar a arte visual do e-book;
+* IA Generativa [ChatGPT](https://chat.openai.com/) para roteirização;
+* IA Generativa [Leonardo AI](https://leonardo.ai/) e [Pixlr](https://pixlr.com/pt/) para criar a arte visual do e-book;
 * Ferramenta Libre Office para edição.
 
 ## 🧐 Processo de Criação
