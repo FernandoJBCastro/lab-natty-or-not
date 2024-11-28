@@ -5,7 +5,7 @@ Este e-book explora a importância das IAs Generativas como uma ferramenta poder
 
 ## 🤖 Tecnologias Utilizadas
 * IA Generativa ChatGPT para roteirização;
-* IA Generativa Leonardo AI e Pixlr para criar a arte visual do e-book;
+* IA Generativa [Leonardo AI](https://chat.openai.com/) e Pixlr para criar a arte visual do e-book;
 * Ferramenta Libre Office para edição.
 
 ## 🧐 Processo de Criação
