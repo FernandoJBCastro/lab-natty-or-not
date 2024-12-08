@@ -17,7 +17,8 @@ Este e-book explora a importância das IAs Generativas como uma ferramenta poder
 * O resultado foi muito interessante, sendo gerado um e-book que explora de forma clara e envolvente a importância das IAs Generativas no diagnóstico da COVID-19, demonstrando como essas tecnologias podem se tornar ferramentas cruciais no uso da medicina.
 * Através de uma análise aprofundada, o conteúdo destaca como as IAs podem beneficiar tanto os governos, ao melhorar a precisão e a rapidez nas tomadas de decisão, quanto a população, ao proporcionar diagnósticos mais acessíveis e eficientes.
 * Ao integrar essas inovações no contexto da saúde pública, o e-book ressalta o impacto transformador das IAs Generativas, contribuindo para a eficácia no enfrentamento da COVID-19.
-[Link di e-Book] (https://github.com/FernandoJBCastro/lab-natty-or-not/blob/main/e-Book.pdf)
+
+[Link do e-Book]([https://chat.openai.com/](https://github.com/FernandoJBCastro/lab-natty-or-not/blob/main/e-Book.pdf))
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
