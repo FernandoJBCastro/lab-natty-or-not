@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O Impacto das IAs Generativas no Diagnóstico da COVID-19: Benefícios para Governos e População
 
 ## 📒 Descrição
 Este e-book explora a importância das IAs Generativas como uma ferramenta poderosa no diagnóstico da COVID-19, destacando como ela pode beneficiar tanto os governos quanto a população.
